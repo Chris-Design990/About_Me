@@ -1,0 +1,11 @@
+
+
+
+let json = {
+  "Class" : "Ideation and Prototyping",
+
+};
+
+console.log(json["Class"]);
+
+
