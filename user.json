@@ -1,11 +1,34 @@
 
 
 
-let json = {
+let Design = {
+
   "Class" : "Ideation and Prototyping",
+  "Project": "Phone Stand Prptotype",
+  "Material": "Cardboard, tape, 3D printed plastic",
 
 };
 
-console.log(json["Class"]);
+let Paper = {
+
+  "Class" : "Special Topic in Sustainable Urban Environment",
+  "Location": "San Francisco",
+  "Project": "Residential and Commercial Building",
+  
+};
+
+let Cards = {
+
+  "Class": "Visual Foundation Studio",
+  "Cards": "King, Queen, Jack,"
+}
+
+let Codes = {
+
+  "Class": "Creative Coding",
+  "Concept": "Float, Fusion, Release"
+}
+
+console.log(Design);
 
 
